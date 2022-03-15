@@ -1,6 +1,5 @@
 # ELK (Elasticsearch + Logstash + Kibana) 7.6.2 with Docker
 
-<img src="https://www.elastic.co/assets/blt0373a4e6ec997c3e/elk-stack-3-elks-stacked.svg" alt="ELK" width="400" align="right" />
 
 ```
 docker-compose up -d
